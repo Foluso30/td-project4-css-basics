@@ -1,0 +1,17 @@
+body {
+  background-color: yellow;
+}
+.my-flex {
+  border: 2px solid red;
+  margin-top: 20px;
+  width: 400px;
+  padding: 10px;
+  border-radius: 4px;
+}
+#myspan {
+  color: green;
+  font-size: 18px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-decoration: line-through;
+}
